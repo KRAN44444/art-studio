@@ -520,4 +520,9 @@ background:url("img/pictures/form-right.png")center/cover;
 	.pics{
 		width: 100%;
 	}
+	@media(max-width: 425px){
+		h1{
+			font-size: 75px;
+		}
+	}
 }
