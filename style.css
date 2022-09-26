@@ -472,7 +472,7 @@ background:url("img/pictures/form-right.png")center/cover;
 		flex-direction: row;
 	}
 	.photo_bg p,.design_bg p,.bg p{
-		font-size: 60px;
+		font-size: 55px;
 	}
 	.head,.bg,.content,.design_content,.design_bg{
 		padding-left: 0;
